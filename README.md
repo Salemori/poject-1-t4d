@@ -1,6 +1,6 @@
 ## QR Card Poject
 #### The task
-To build the QR card component and get it looking as close to the design as possible using HTML and CSS. 
+To build the QR card component using HTML and CSS. 
 
 [CLICK HERE TO VIEW THE QR CARD PROJECT](https://salemori.github.io/poject-1-t4d/)
 
